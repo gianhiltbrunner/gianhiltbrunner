@@ -1,3 +1,3 @@
 ### Hey, it's me. 
 
-I'm a masters student in bioinformatics :herb: at the federal institute of technology in Zurich. I love coding in Python and C++ to create awesome stuff. 
+Hey there it's me Gian, I'm a highly motivated IT consultant who loves to write top-notch code and stay on top of the latest and greatest in C#/.NET, Azure and Data Engineering. I'm all about delivering high-quality work and constantly improving my skills. Let's create something amazing together!
